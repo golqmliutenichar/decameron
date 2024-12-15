@@ -1,0 +1,6 @@
+flask
+flask-socketio
+eventlet
+mysql-connector-python
+bcrypt
+redis
